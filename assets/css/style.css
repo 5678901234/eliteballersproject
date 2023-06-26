@@ -316,19 +316,14 @@ input[type="button"]:hover{
 }
 
 
-.subscribeform{
-    display: flex;
-    position: relative;
-    top: 2rem;
-    justify-content: center;
-    align-content: center;
-    width: 50%;
-}
 
 .overallheader{
-display: flex;
-
+display: flex; 
+justify-content: center;
+align-content: center;
+width: 100%;
 }
+
 
 .contactus{
     color: white;
@@ -338,11 +333,11 @@ display: flex;
     padding-bottom: none;
 }
 
-.contactuslogo{ 
+/* .contactuslogo{ 
     display: flex;
 position: relative;
 top: 10%;
-}
+} */
 
 footer{
     margin-top: 3rem;
